@@ -1,4 +1,4 @@
 A modpack made by GK1H Development made for vanilla & plugin servers.
 
-Modrinth: https://modrinth.com/project/gk1h-vanilla-compatible  
-Discord: https://discord.gg/AwJvGzH
+<a style="color:#1bd96a;" href="https://modrinth.com/modpack/gk1h-vanilla-compatible">Modrinth</a><br>
+<a style="color:#5865f2;" href="https://discord.gg/AwJvGzH">Discord</a>
