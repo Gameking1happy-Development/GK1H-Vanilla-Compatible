@@ -1,0 +1,21 @@
+# GK1HV-C 21.1.2.0 - Major Updating
+
+## Mod Additions
+
+Readded Just Enough Items (JEI) as it seems EMI uses that for full compat with Jade.
+
+ToadLib
+
+EMI++
+
+EMIffect
+
+## Mod Updates
+
+Too many to list.
+
+## Changes
+
+Updated Fabric Loader from 0.17.3 to 0.18.1.
+
+Many other changes.
