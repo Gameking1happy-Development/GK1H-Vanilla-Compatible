@@ -1,19 +1,37 @@
 # GK1HV-C 21.1.4.0 - JourneyMap
+
 ## Mod Additions
+
 JourneyMap
+
 ## Mod Updates
+
 BadOptimizations (2.4.0 to 2.4.1)<br>
+
 Boat Better / Better Boat Movement (v2.5.3 to v2.5.4)<br>
+
 Bookshelf (21.1.78 to 21.1.80)<br>
+
 e4mc (5.4.2 to 5.5.2)<br>
+
 Fabric Language Kotlin (1.13.7+kotlin.2.2.21 to 1.13.8+kotlin.2.3.0)<br>
+
 Fzzy Config (0.7.3 to 0.7.4-fix1)<br>
+
 ImmediatelyFast (1.6.8 to 1.6.9)<br>
+
 Inventory Profiles Next (2.2.1 to 2.2.2)<br>
+
 libIPN (6.6.1 to 6.6.2)<br>
+
 Not Enough Animations (1.11.0 to 1.11.1)<br>
+
 Pixelshot (v21.1.0 to v21.1.1)
+
 ## Mod Removals
+
 Xaero's World Map<br>
+
 Xaero's Minimap<br>
+
 XaeroPlus
