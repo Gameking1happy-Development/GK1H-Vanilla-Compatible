@@ -1,10 +1,19 @@
 # GK1HV-C 21.1.4.1 - JourneyMap Addons
+
 ## Mod Additions
-JourneyMap Integration<br>
-JourneyMap Web Map<br>
-JourneyMap Waypoint Syncing (JMWS)<br>
-MapFrontiers<br>
-JourneyPAC<br>
+
+JourneyMap Integration
+
+JourneyMap Web Map
+
+JourneyMap Waypoint Syncing (JMWS)
+
+MapFrontiers
+
+JourneyPAC
+
 Open Parties and Claims
+
 ## Mod Updates
+
 Just Enough Items (JEI) (19.25.1.332 to 19.27.0.335)
