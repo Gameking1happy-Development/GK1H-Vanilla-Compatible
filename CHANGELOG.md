@@ -1,10 +1,6 @@
-# GK1HV-C 21.1.4.1 - JourneyMap Addons
-## Mod Additions
-JourneyMap Integration<br>
-JourneyMap Web Map<br>
-JourneyMap Waypoint Syncing (JMWS)<br>
-MapFrontiers<br>
-JourneyPAC<br>
-Open Parties and Claims
+# GK1HV-C 21.1.4.2 - Patch
 ## Mod Updates
-Just Enough Items (JEI) (19.25.1.332 to 19.27.0.335)
+Armor Quick Swap (v21.1.1 to v21.1.2)<br>
+Dynamic Crosshair (9.10 to 9.11)<br>
+e4mc (5.5.2 to 5.5.4)<br>
+Just Enough Items (JEI) (19.27.0.335 to 19.27.0.336)

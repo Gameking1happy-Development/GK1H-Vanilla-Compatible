@@ -201,13 +201,13 @@
       }
     },
     {
-      "id": "21.1.4.1",
-      "releasedAt": 1766585354000,
-      "updateType": "minor_breaking",
+      "id": "21.1.4.2",
+      "releasedAt": 1767039640000,
+      "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-vanilla-compatible/version/21.1.4.1/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Compatible/releases/tag/21.1.4.1/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-vanilla-compatible/version/21.1.4.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Compatible/releases/tag/21.1.4.2/"
         }
       }
     }
