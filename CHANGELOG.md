@@ -1,6 +1,8 @@
-# GK1HV-C 21.1.4.2 - Patch
+# GK1HV-C 21.1.4.3 - Patch
 ## Mod Updates
-Armor Quick Swap (v21.1.1 to v21.1.2)<br>
-Dynamic Crosshair (9.10 to 9.11)<br>
-e4mc (5.5.2 to 5.5.4)<br>
-Just Enough Items (JEI) (19.27.0.335 to 19.27.0.336)
+Dynamic FPS (3.9.5 to 3.11.3)<br>
+EMI Loot (0.7.8 to 0.7.9)<br>
+Entity Culling (1.9.4 to 1.9.5)<br>
+Inventory Profiles Next (2.2.2 to 2.2.3)<br>
+Just Enough Items (JEI) (19.27.0.336 to 19.27.0.340)<br>
+ToadLib (1.3.7 to 1.4.1)
