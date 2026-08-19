@@ -221,6 +221,17 @@
           "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Compatible/releases/tag/21.1.4.3/"
         }
       }
+    },
+    {
+      "id": "21.1.4.4_0_1",
+      "releasedAt": 1787143883000,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-vanilla-compatible/version/21.1.4.4_0_1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Compatible/releases/tag/21.1.4.4_0_1/"
+        }
+      }
     }
   ]
 }
